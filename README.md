@@ -40,13 +40,3 @@
 ---
 
 <div align="center">
-
-### 📊 Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=LenKazuma&show_icons=true&theme=tokyonight&count_private=true" alt="LenKazuma's Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenKazuma&layout=compact&theme=tokyonight&langs_count=6" alt="LenKazuma's Top Langs" />
-
-</div>
