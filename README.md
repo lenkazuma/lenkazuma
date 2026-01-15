@@ -4,7 +4,6 @@
 
 ### 这里的 ID 是 LenKazuma，也可以叫我 **丢丢** (DiuDiu)
 
-![Miku Gif](https://media.giphy.com/media/Bn6HQAwU24b80/giphy.gif)
 **「 废柴创业社畜 | 牢二刺螈 | 🔧 硬核工匠 」**
 
 ---
