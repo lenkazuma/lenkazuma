@@ -2,7 +2,7 @@
 
 # Hi there, I'm LenKazuma 👋
 
-### 这里的 ID 是 LenKazuma，也可以叫我 **丢丢** (DiuDiu)
+### 这里的 ID 是 LenKazuma，也可以叫我 **丢丢** (Dullahan)
 
 **「 废柴创业社畜 | 牢二刺螈 | 🔧 硬核工匠 」**
 
