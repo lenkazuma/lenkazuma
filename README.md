@@ -33,9 +33,9 @@
 
 | Category | Tags |
 | :--- | :--- |
-| **Music** | 🎹 术力口 (Vocaloid) / 🎧 音游 (Rhythm Games) |
+| **Music** | 🎹 术力口 (Vocaloid) / 🎧 音游 |
 | **Gaming** | 🔫 FPS / 🎮 Hardcore Gamer |
-| **Tech** | 🖥️ PC Building (装机) / 📹 Video Creating |
+| **Tech** | 🖥️ PC Building / 📹 Video Creating |
 
 ---
 
