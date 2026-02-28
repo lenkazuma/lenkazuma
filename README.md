@@ -4,7 +4,7 @@
 
 ### 这里的 ID 是 LenKazuma，也可以叫我 **丢丢** (Dullahan)
 
-**「 废柴创业社畜 | 牢二刺螈 | 🔧 硬核工匠 」**
+**「 废柴创业社畜 | 牢二刺螈  」**
 
 ---
 
@@ -34,7 +34,7 @@
 | Category | Tags |
 | :--- | :--- |
 | **Music** | 🎹 术力口 (Vocaloid) / 🎧 音游 |
-| **Gaming** | 🔫 FPS / 🎮 Hardcore Gamer |
+| **Gaming** | 🔫 FPS / MMORG |
 | **Tech** | 🖥️ PC Building / 📹 Video Creating |
 
 ---
