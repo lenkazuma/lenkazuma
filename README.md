@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 
-### 🛠️ Hardcore & Creative Skills
+### 🛠️ Creative Skills
 <img src="https://img.shields.io/badge/Embedded-PCB_Design-critical?style=flat-square&logo=arduino" />
 <img src="https://img.shields.io/badge/Multimedia-Video_Production-ff0055?style=flat-square&logo=youtube" />
 <img src="https://img.shields.io/badge/Art-Digital_Drawing-orange?style=flat-square&logo=artstation" />
