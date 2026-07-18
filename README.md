@@ -9,7 +9,7 @@ coding sometimes, but usually found in:
 | 🎮 |  💥 |
 |:---:|:---:|
 | **FPS** | **二次元** |
-| tap tap boom | wig & prop check | full combo or die | anime hours |
+| full combo or die | anime hours |
 
 ![Anime](https://img.shields.io/badge/二次元-Anime-ff69b4?style=for-the-badge)
 ![Coser](https://img.shields.io/badge/Coser-Cosplay-9b59b6?style=for-the-badge)
