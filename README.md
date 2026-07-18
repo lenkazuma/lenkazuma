@@ -16,7 +16,7 @@ coding sometimes
 ![FPS](https://img.shields.io/badge/FPS-Game-e74c3c?style=for-the-badge)
 ![Rhythm](https://img.shields.io/badge/音游-Rhythm-3498db?style=for-the-badge)
 
-### vibes / 状态
+### vibes 
 
 - 🔫 FPS：电竞老奶 / aim = happiness
 - 🌸 跟不上黑话的二刺螈老登 / anime overdose warning
