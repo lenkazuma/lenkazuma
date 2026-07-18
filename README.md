@@ -3,8 +3,8 @@
 > 二次元 × Coser × FPS × 音游  
 > anime · cosplay · FPS · rhythm games
 
-偶尔写点代码，更多时间大概在：  
-coding sometimes, but usually found in:
+写点代码  
+coding sometimes
 
 | 🎮 |  💥 |
 |:---:|:---:|
