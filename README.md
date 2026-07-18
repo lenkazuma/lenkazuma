@@ -1,6 +1,6 @@
 # ✨ hi, i'm lenkazuma
 
-> 二次元 × Coser × FPS × 音游  
+> 二刺螈 × Coser × FPS × 音游  
 > anime · cosplay · FPS · rhythm games
 
 写点代码  
@@ -8,7 +8,7 @@ coding sometimes
 
 | 🎮 |  💥 |
 |:---:|:---:|
-| **FPS** | **二次元** |
+| **FPS** | **二刺螈** |
 | full combo or die | anime hours |
 
 ![Anime](https://img.shields.io/badge/二次元-Anime-ff69b4?style=for-the-badge)
